@@ -1,5 +1,6 @@
 /**
  * Created by intelWorx on 27/10/2015.
+ * Modified by ffunes on 05/06/2018.
  */
 (function (exports) {
 
